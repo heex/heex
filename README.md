@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iago aka hex or hexie
 - 👀 I’m interested in Cloud Platforms Observabitlity and Automations
-- 🌱 I’m currently learning GoLang in depth
+- 🌱 I’m currently programming in GoLang.
 - 💞️ I’m looking to collaborate on Azure, GCP, OpenStack and everything related to Kubernetes and Observability
 - 📫 You can reach me in LinkedIn at linkedin.com/in/iago-willian/
 
